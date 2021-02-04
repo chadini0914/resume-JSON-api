@@ -9,7 +9,7 @@ Simple, open-source REST API for present my skills as a beginner in Cloud Comput
 
 ->AWS Lambda with Python runtime 3.7,
 ->Amazon API Gateway, 
-->for IaC the Cloud Formation was used,
+->IaC the Cloud Formation,
 ->CI/CD pipline for AWS Cloud Formation
 
 ## Why.
