@@ -14,3 +14,9 @@ Simple, open-source REST API for present my skills as a beginner in Cloud Comput
 
 ## Why.
 To prove my interest and skills as a beginner in Cloud Computing/ Engineering and present my CV in an interesting way.
+
+## How to play it? 
+
+Go to the link below: 
+
+https://sp0ur9m801.execute-api.eu-central-1.amazonaws.com/
