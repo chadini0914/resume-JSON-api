@@ -17,6 +17,4 @@ To prove my interest and skills as a beginner in Cloud Computing/ Engineering an
 
 ## How to play it? 
 
-Go to the link below: 
-
-https://sp0ur9m801.execute-api.eu-central-1.amazonaws.com/
+Link attached to resume. 
